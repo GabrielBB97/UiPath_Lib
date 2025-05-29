@@ -4,7 +4,9 @@
   "description": "Standard Uipath test cases workflow",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.4.3]"
+    "UiPath.Mail.Activities": "[2.1.20]",
+    "UiPath.System.Activities": "[25.4.3]",
+    "UiPath.UIAutomation.Activities": "[25.10.4]"
   },
   "webServices": [],
   "entitiesStores": [],
